@@ -1,6 +1,6 @@
-Music sharing 
+Music blog
 
-Just music sharing 
+Just music blog
 
 Use gem for upload avatar: paperclip.
 
